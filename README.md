@@ -4,6 +4,9 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="kollurilohit" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kollurilohit?trk=profile-badge">Lohit Kolluri</a></div>
+              
+
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->  
  <details><summary>𝗦𝗧𝗔𝗧𝗦</summary>
 <p align="center">
