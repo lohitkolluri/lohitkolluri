@@ -52,5 +52,5 @@
 
 ## :chart_with_upwards_trend: GitHub Stats
 <p align="center">
-  <img src="https://stats-six-plum.vercel.app/api?username=lohitkolluri&show_icons=true&theme=radical">
+  <img src="https://stats-c3aiotwa4-lohits-projects.vercel.app/api?username=lohitkolluri&show_icons=true&theme=radical">
 </p>
