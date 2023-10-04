@@ -5,8 +5,6 @@
   <a href="https://lohitkolluri.tech/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"></a>
 </p>
 
----
-
 ## :wave: About Me
 - 🖥 Cybersecurity Enthusiast.
 - 🎓 Pursuing BTech with specialization in Computer Science Engineering at SRM University.
