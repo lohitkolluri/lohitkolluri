@@ -63,7 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
 </div>
 
-## 🧑‍💻 Hacktober Fest
+## 🎯 Holopin Board
 [![An image of @lohitkolluri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lohitkolluri)](https://holopin.io/@lohitkolluri)
 
 ## :chart_with_upwards_trend: GitHub Stats
