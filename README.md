@@ -1,8 +1,13 @@
 <h2 align="center"><samp>👋 Hello! I'm Lohit Kolluri.</samp></h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kollurilohit"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="https://lohitkolluri.tech/"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/kollurilohit">
+    <img src="https://img.shields.io/badge/Connect%20with%20me-%230e76a8?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=lohitkolluri&style=for-the-badge&color=brightgreen" alt="Profile Views">
+  <a href="https://lohitkolluri.tech/">
+    <img src="https://img.shields.io/badge/Visit%20my%20Website-%233b5998?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
 </p>
 
 ## :wave: About Me
