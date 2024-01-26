@@ -73,5 +73,5 @@
 
 ## :chart_with_upwards_trend: GitHub Stats
 <p align="center">
-  <img src="https://git-hub-readme-stats-nu.vercel.app/api?username=lohitkolluri&theme=radical&show_icons=true&bg_color=00000000&rank_icon=github&count_private=true&border_radius=15">
+  <img src="https://git-hub-readme-stats-nu.vercel.app/api?username=lohitkolluri&theme=radical&show_icons=true&bg_color=00000000&rank_icon=github&count_private=true&border_radius=15&hide_title=true">
 </p>
