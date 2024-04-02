@@ -14,7 +14,7 @@
 - 🖥 Cybersecurity Enthusiast.
 - 🎓 Pursuing BTech with specialization in Computer Science Engineering at SRM University.
 - 🌐 Welcome to my personal website! Feel free to explore and learn more about me and my projects. [Visit my website](https://lohitkolluri.tech)
-- 📄 Looking for details? Download my resume [here.](https://drive.google.com/file/d/1F2XBez0VWpZ0w_26ChovLkcZt9GVCZte/view)
+- 📄 Looking for details? Download my resume [here.](https://drive.google.com/file/d/1KwoW5uTW2aUEoi14CnM6JGQatup_5aAf/view?usp=sharing)
 
 ## :computer: Tech Stack
 <div align="center">
