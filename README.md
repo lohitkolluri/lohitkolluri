@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Connect%20with%20me-%230e76a8?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
   <img src="https://komarev.com/ghpvc/?username=lohitkolluri&style=for-the-badge&color=brightgreen" alt="Profile Views">
-  <a href="https://lohitkolluri.tech/">
+  <a href="https://lohitkolluri.vercel.app/">
     <img src="https://img.shields.io/badge/Visit%20my%20Website-%233b5998?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
@@ -13,7 +13,7 @@
 ## :wave: About Me
 - 🖥 Cybersecurity Enthusiast.
 - 🎓 Pursuing BTech with specialization in Computer Science Engineering at SRM University.
-- 🌐 Welcome to my personal website! Feel free to explore and learn more about me and my projects. [Visit my website](https://lohitkolluri.tech)
+- 🌐 Welcome to my personal website! Feel free to explore and learn more about me and my projects. [Visit my website](https://lohitkolluri.vercel.app)
 - 📄 Looking for details? Download my resume [here.](https://drive.google.com/file/d/1KwoW5uTW2aUEoi14CnM6JGQatup_5aAf/view?usp=sharing)
 
 ## :computer: Tech Stack
