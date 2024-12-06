@@ -13,7 +13,7 @@
 ## :wave: About Me
 - 🖥 Cybersecurity Enthusiast.
 - 🎓 Pursuing BTech with specialization in Computer Science Engineering at SRM University.
-- 🌐 Welcome to my personal website! Feel free to explore and learn more about me and my projects. [Visit my website](https://lohitkolluri.vercel.app)
+- 🌐 Welcome to my personal website! Feel free to explore and learn more about me and my projects. [Visit my website](https://lohit.is-a.dev/)
 - 📄 Looking for details? Download my resume [here.](https://drive.google.com/file/d/1KwoW5uTW2aUEoi14CnM6JGQatup_5aAf/view?usp=sharing)
 
 ## :computer: Tech Stack
