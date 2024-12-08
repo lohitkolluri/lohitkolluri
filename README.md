@@ -1,77 +1,62 @@
-<h2 align="center"><samp>👋 Hello! I'm Lohit Kolluri.</samp></h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/kollurilohit">
-    <img src="https://img.shields.io/badge/Connect%20with%20me-%230e76a8?style=for-the-badge&logo=Linkedin&logoColor=white">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=lohitkolluri&style=for-the-badge&color=brightgreen" alt="Profile Views">
-  <a href="https://lohitkolluri.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit%20my%20Website-%233b5998?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-</p>
-
-## :wave: About Me
-- 🖥 Cybersecurity Enthusiast.
-- 🎓 Pursuing BTech with specialization in Computer Science Engineering at SRM University.
-- 🌐 Welcome to my personal website! Feel free to explore and learn more about me and my projects. [Visit my website](https://lohit.is-a.dev/)
-- 📄 Looking for details? Download my resume [here.](https://drive.google.com/file/d/1KwoW5uTW2aUEoi14CnM6JGQatup_5aAf/view?usp=sharing)
-
-## :computer: Tech Stack
 <div align="center">
-  <!-- Cloud Services -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-
-  <!-- Frontend Technologies -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-
-  <!-- Hardware and IoT -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo" />
-
-  <!-- Operating Systems and Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-
-  <!-- Data Science and Analysis -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
-
-  <!-- Package Managers -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
+  
+  <h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Lohit Kolluri</h1>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kollurilohit)
+  [![Website](https://img.shields.io/badge/Website-gray?style=flat&logo=google-chrome&logoColor=white)](https://lohit.is-a.dev/)
+  [![Profile Views](https://komarev.com/ghpvc/?username=lohitkolluri&style=flat&color=brightgreen)](https://github.com/lohitkolluri)
+  [![CLI Card](https://img.shields.io/badge/CLI-npx_lohitkolluri-red?style=flat&logo=npm)](https://www.npmjs.com/package/lohitkolluri)
 </div>
 
-## 🎯 Holopin Board
-[![An image of @lohitkolluri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lohitkolluri)](https://holopin.io/@lohitkolluri)
+<h2 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
+  About Me 
+</h2>
 
-## :chart_with_upwards_trend: GitHub Stats
+```js
+const lohit = {
+    education: "BTech CSE @ SRM University",
+    interests: ["DevOps", "Full Stack Development", "Cybersecurity"],
+    current: "Learning ML/AI & Working on Full Stack Projects",
+    tech: {
+        backend: ["Python", "Django", "FastAPI", "Node.js"],
+        frontend: ["React.js", "Next.js", "Tailwind CSS"],
+        cloud: ["AWS", "Azure", "Docker", "Linux"]
+    },
+    terminal: "Discover my digital business card with 'npx lohitkolluri' ✨"
+};
+```
+
+<h2 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px">
+  Skills & Technologies
+</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,next,threejs,tailwind,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,github,linux" />
+  <img src="https://skillicons.dev/icons?i=flask,django,fastapi,postgresql,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=arduino,bash,discordjs,githubactions" />
+</div>
+
+<h2 align="left">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
+  GitHub Analytics
+</h2>
+
 <p align="center">
-  <img src="https://git-hub-readme-stats-nu.vercel.app/api?username=lohitkolluri&theme=radical&show_icons=true&bg_color=00000000&rank_icon=github&count_private=true&border_radius=15&hide_title=true">
+  <img width="49%" src="https://lohit-readme-stats.vercel.app/api?username=lohitkolluri&show_icons=true&rank_icon=github&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true&show_owner=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=lohitkolluri&theme=tokyonight&hide_border=true&background=00000000&include_all_commits=true"/>
 </p>
+
+<h2 align="left">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px" height="20px">
+  Achievements
+</h2>
+
+<div align="left">
+  
+[![@lohitkolluri's Holopin badges](https://holopin.me/lohitkolluri)](https://holopin.io/@lohitkolluri)
+</div>
