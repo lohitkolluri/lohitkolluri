@@ -7,7 +7,7 @@
   <p><i>Platform Engineer || DevOps Engineer</i></p>
 
   <a href="https://lohit.is-a.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/lohit.is--a.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/kollurilohit" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
