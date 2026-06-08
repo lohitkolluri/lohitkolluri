@@ -17,11 +17,6 @@
   </a>
 </div>
 
-<!-- About Me -->
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> 
-  About Me
-</h2>
 
 ```js
 const lohit = {
@@ -34,11 +29,6 @@ const lohit = {
 };
 ```
 
-<!-- Skills -->
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px">
-  Skills
-</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,go,bash" />
@@ -50,11 +40,6 @@ const lohit = {
   <img src="https://skillicons.dev/icons?i=prometheus,git,github,vscode,postman" />
 </div>
 
-<!-- GitHub Analytics -->
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">
-  GitHub Analytics
-</h2>
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lohitkolluri&theme=tokyonight" />
@@ -65,33 +50,9 @@ const lohit = {
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lohitkolluri&theme=tokyonight" />
 </p>
 
-<!-- Achievements -->
-<h2>
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px">
-  Achievements
-</h2>
 
 [![@lohitkolluri's Holopin badges](https://holopin.me/lohitkolluri)](https://holopin.io/@lohitkolluri)
 
-<!-- Contribution Graph -->
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">
-  Contribution Graph
-</h2>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lohitkolluri/lohitkolluri/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lohitkolluri/lohitkolluri/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/lohitkolluri/lohitkolluri/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<!-- Footer -->
-<div align="center">
-
-  ```
-  Automate Everything, Monitor Always 🔧
-  ```
 
 </div>
