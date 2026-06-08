@@ -4,7 +4,7 @@
     Hi, I'm Lohit Kolluri!!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
   </h1>
-  <p><i>Platform Engineer || DevOps Engineer</i></p>
+  <p><i>Platform Engineer || DevOps Engineer || OpenSource Contributor</i></p>
 
   <a href="https://lohit.is-a.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
