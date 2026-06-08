@@ -50,6 +50,21 @@ const lohit = {
   <img src="https://skillicons.dev/icons?i=prometheus,git,github,vscode,postman" />
 </div>
 
+<!-- GitHub Analytics -->
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">
+  GitHub Analytics
+</h2>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lohitkolluri&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lohitkolluri&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lohitkolluri&theme=tokyonight" />
+</p>
+
 <!-- Achievements -->
 <h2>
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px">
@@ -57,3 +72,26 @@ const lohit = {
 </h2>
 
 [![@lohitkolluri's Holopin badges](https://holopin.me/lohitkolluri)](https://holopin.io/@lohitkolluri)
+
+<!-- Contribution Graph -->
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">
+  Contribution Graph
+</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lohitkolluri/lohitkolluri/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lohitkolluri/lohitkolluri/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/lohitkolluri/lohitkolluri/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<!-- Footer -->
+<div align="center">
+
+  ```
+  Automate Everything, Monitor Always 🔧
+  ```
+
+</div>
