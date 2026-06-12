@@ -1,19 +1,6 @@
-<!--
-  ============================================================
-  LOHIT KOLLURI — GitHub Profile
-  ============================================================
-  To use this as your profile README:
-    1. Copy this file's content and paste into
-       https://github.com/lohitkolluri/lohitkolluri/blob/main/README.md
-    2. Copy profile-card.svg to the same repository (required for the About Me card)
-
-  Stats/language/activity cards update automatically via public APIs.
-  No GitHub Actions workflow required.
-  ============================================================
--->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=700&lines=LOHIT+KOLLURI;Platform+Engineer+%7C+Cloud+%26+Infrastructure;Building+reliable+and+observable+systems;Open+Source+Contributor)](https://git.io/typing-svg" alt="Typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=700&lines=LOHIT+KOLLURI;Platform+Engineer+%7C+Cloud+%26+Infrastructure;Building+reliable+and+observable+systems;Open+Source+Contributor" alt="Typing header" />
 </p>
 
 <p align="center">
