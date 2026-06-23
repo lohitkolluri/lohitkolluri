@@ -114,9 +114,7 @@ I contribute to open source projects like `moby/moby`, `grafana/grafana`, `cockr
 
 ## 🌍 Open Source Contributions
 
-<div style="max-height: 370px; overflow-y: auto;">
-
-<table>
+<div style="max-height: 370px; overflow: auto;"><table>
   <thead>
     <tr>
       <th>Project</th>
@@ -166,9 +164,7 @@ I contribute to open source projects like `moby/moby`, `grafana/grafana`, `cockr
       <td><a href="https://github.com/jenkinsci/jenkins/pull/26912"><code>jenkinsci/jenkins#26912</code></a></td>
     </tr>
   </tbody>
-</table>
-
-</div>
+</table></div>
 
 <hr />
 
