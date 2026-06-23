@@ -114,11 +114,6 @@ I contribute to open source projects like `moby/moby`, `grafana/grafana`, `cockr
 
 ## 🌍 Open Source Contributions
 
-<details open>
-<summary><strong>Open Source Contributions</strong></summary>
-
-<br />
-
 <table>
   <thead>
     <tr>
@@ -153,6 +148,23 @@ I contribute to open source projects like `moby/moby`, `grafana/grafana`, `cockr
       <td>Add <code>t.Parallel()</code> to util/app tests</td>
       <td><a href="https://github.com/argoproj/argo-cd/pull/28177"><code>argoproj/argo-cd#28177</code></a></td>
     </tr>
+  </tbody>
+</table>
+
+<details>
+<summary><strong>3 more contributions</strong></summary>
+
+<br />
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Contribution</th>
+      <th>PR</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="16" alt="" />&nbsp; Prometheus</td>
       <td>Document that compaction can temporarily exceed retention.size</td>
