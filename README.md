@@ -22,7 +22,7 @@
 
 I keep infrastructure running so your team can ship without surprises. **Kubernetes**, **CI/CD**, and **observability** are my bread and butter. GitOps pipelines, container orchestration, monitoring with **Prometheus** and **Grafana** that actually tells you something useful before pager duty kicks in.
 
-I contribute to open source projects like `moby/moby`, `grafana/grafana`, `cockroachdb/cockroach`, `argoproj/argo-cd`, and `prometheus-operator`. I hold **Azure** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub Foundations**. Right now I'm digging into **GenAI** and **autonomous DevOps**. No hype, just finding what actually works for infrastructure.
+I contribute to open source projects like `moby/moby`, `grafana/grafana`, `cockroachdb/cockroach`, `prometheus/prometheus`, `prometheus-operator`, `jenkinsci/jenkins`, and `argoproj/argo-cd`. I hold **Azure** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub Foundations**. Right now I'm digging into **GenAI** and **autonomous DevOps**. No hype, just finding what actually works for infrastructure.
 
 `npx lohitkolluri` if you want the quick version.
 
@@ -114,7 +114,12 @@ I contribute to open source projects like `moby/moby`, `grafana/grafana`, `cockr
 
 ## 🌍 Open Source Contributions
 
-<div style="max-height: 370px; overflow: auto;"><table>
+<details open>
+<summary><strong>Open Source Contributions</strong></summary>
+
+<br />
+
+<table>
   <thead>
     <tr>
       <th>Project</th>
@@ -164,7 +169,9 @@ I contribute to open source projects like `moby/moby`, `grafana/grafana`, `cockr
       <td><a href="https://github.com/jenkinsci/jenkins/pull/26912"><code>jenkinsci/jenkins#26912</code></a></td>
     </tr>
   </tbody>
-</table></div>
+</table>
+
+</details>
 
 <hr />
 
