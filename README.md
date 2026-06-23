@@ -114,6 +114,8 @@ I contribute to open source projects like `moby/moby`, `grafana/grafana`, `cockr
 
 ## 🌍 Open Source Contributions
 
+<div style="max-height: 370px; overflow-y: auto;">
+
 <table>
   <thead>
     <tr>
@@ -149,12 +151,24 @@ I contribute to open source projects like `moby/moby`, `grafana/grafana`, `cockr
       <td><a href="https://github.com/argoproj/argo-cd/pull/28177"><code>argoproj/argo-cd#28177</code></a></td>
     </tr>
     <tr>
+      <td><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="16" alt="" />&nbsp; Prometheus</td>
+      <td>Document that compaction can temporarily exceed retention.size</td>
+      <td><a href="https://github.com/prometheus/prometheus/pull/18996"><code>prometheus/prometheus#18996</code></a></td>
+    </tr>
+    <tr>
       <td><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="16" alt="" />&nbsp; Prometheus Operator</td>
       <td>Docs, validation, and test fixes</td>
       <td><a href="https://github.com/prometheus-operator/prometheus-operator/pull/8587"><code>#8587</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8589"><code>#8589</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8591"><code>#8591</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8595"><code>#8595</code></a></td>
     </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/jenkins/D24939" height="16" alt="" />&nbsp; Jenkins</td>
+      <td>Add charset UTF-8 to workspace text file responses</td>
+      <td><a href="https://github.com/jenkinsci/jenkins/pull/26912"><code>jenkinsci/jenkins#26912</code></a></td>
+    </tr>
   </tbody>
 </table>
+
+</div>
 
 <hr />
 
