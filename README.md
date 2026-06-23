@@ -1,4 +1,3 @@
-
 <h1 align="center" style="margin-bottom: 0; color: #58A6FF;">Lohit Kolluri</h1>
 <p align="center" style="margin-top: 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Platform+Engineer+%E2%80%A2+Cloud+%26+Infrastructure;Building+reliable+and+observable+systems;Open+Source+Contributor" alt="Typing subtitle" />
@@ -126,42 +125,42 @@ I contribute to open source projects like `moby/moby`, `grafana/grafana`, `cockr
     <tr>
       <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="16" alt="" />&nbsp; Docker / Moby</td>
       <td>Fix constraint enforcer for completed swarmkit job tasks</td>
-      <td><a href="https://github.com/moby/moby/pull/52786"><code>#52786</code></a></td>
+      <td align="center"><a href="https://github.com/moby/moby/pull/52786"><code>#52786</code></a></td>
     </tr>
     <tr>
       <td><img src="https://cdn.simpleicons.org/docker/222222" height="16" alt="" />&nbsp; SwarmKit</td>
       <td>Exclude completed tasks from constraint reservation accounting</td>
-      <td><a href="https://github.com/moby/swarmkit/pull/3237"><code>#3237</code></a></td>
+      <td align="center"><a href="https://github.com/moby/swarmkit/pull/3237"><code>#3237</code></a></td>
     </tr>
     <tr>
       <td><img src="https://cdn.simpleicons.org/grafana/F46800" height="16" alt="" />&nbsp; Grafana</td>
       <td>Fix modal color bleeding with opaque border tokens</td>
-      <td><a href="https://github.com/grafana/grafana/pull/125797"><code>#125797</code></a></td>
+      <td align="center"><a href="https://github.com/grafana/grafana/pull/125797"><code>#125797</code></a></td>
     </tr>
     <tr>
       <td><img src="https://cdn.simpleicons.org/cockroachlabs/6933FF" height="16" alt="" />&nbsp; CockroachDB</td>
       <td>Enable metamorphic defaults in optimizer logictests</td>
-      <td><a href="https://github.com/cockroachdb/cockroach/pull/170882"><code>#170882</code></a></td>
+      <td align="center"><a href="https://github.com/cockroachdb/cockroach/pull/170882"><code>#170882</code></a></td>
     </tr>
     <tr>
       <td><img src="https://cdn.simpleicons.org/argo/EF7B4D" height="16" alt="" />&nbsp; ArgoCD</td>
       <td>Parallelize util/app tests with <code>t.Parallel()</code></td>
-      <td><a href="https://github.com/argoproj/argo-cd/pull/28177"><code>#28177</code></a></td>
+      <td align="center"><a href="https://github.com/argoproj/argo-cd/pull/28177"><code>#28177</code></a></td>
     </tr>
     <tr>
       <td><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="16" alt="" />&nbsp; Prometheus</td>
       <td>Document compaction may temporarily exceed retention.size</td>
-      <td><a href="https://github.com/prometheus/prometheus/pull/18996"><code>#18996</code></a></td>
+      <td align="center"><a href="https://github.com/prometheus/prometheus/pull/18996"><code>#18996</code></a></td>
     </tr>
     <tr>
       <td><img src="https://avatars.githubusercontent.com/u/66682517?s=280&v=4" height="16" alt="" />&nbsp; Prometheus Operator</td>
       <td>Docs, validation, and test fixes</td>
-      <td><a href="https://github.com/prometheus-operator/prometheus-operator/pull/8587"><code>#8587</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8589"><code>#8589</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8591"><code>#8591</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8595"><code>#8595</code></a></td>
+      <td align="center"><a href="https://github.com/prometheus-operator/prometheus-operator/pull/8587"><code>#8587</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8589"><code>#8589</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8591"><code>#8591</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8595"><code>#8595</code></a></td>
     </tr>
     <tr>
       <td><img src="https://cdn.simpleicons.org/jenkins/D24939" height="16" alt="" />&nbsp; Jenkins</td>
       <td>Serve workspace text files with UTF-8 charset</td>
-      <td><a href="https://github.com/jenkinsci/jenkins/pull/26912"><code>#26912</code></a></td>
+      <td align="center"><a href="https://github.com/jenkinsci/jenkins/pull/26912"><code>#26912</code></a></td>
     </tr>
   </tbody>
 </table>
