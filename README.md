@@ -125,50 +125,33 @@ I contribute to open source projects like `moby/moby`, `grafana/grafana`, `cockr
   <tbody>
     <tr>
       <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="16" alt="" />&nbsp; Docker / Moby</td>
-      <td>Update swarmkit to fix completed job task constraint enforcer</td>
-      <td><a href="https://github.com/moby/moby/pull/52786"><code>moby/moby#52786</code></a></td>
+      <td>Fix constraint enforcer for completed swarmkit job tasks</td>
+      <td><a href="https://github.com/moby/moby/pull/52786"><code>#52786</code></a></td>
     </tr>
     <tr>
       <td><img src="https://cdn.simpleicons.org/docker/222222" height="16" alt="" />&nbsp; SwarmKit</td>
-      <td>Ignore completed tasks in constraint enforcer reservation accounting</td>
-      <td><a href="https://github.com/moby/swarmkit/pull/3237"><code>moby/swarmkit#3237</code></a></td>
+      <td>Exclude completed tasks from constraint reservation accounting</td>
+      <td><a href="https://github.com/moby/swarmkit/pull/3237"><code>#3237</code></a></td>
     </tr>
     <tr>
       <td><img src="https://cdn.simpleicons.org/grafana/F46800" height="16" alt="" />&nbsp; Grafana</td>
-      <td>Use opaque border tokens to prevent modal color bleeding</td>
-      <td><a href="https://github.com/grafana/grafana/pull/125797"><code>grafana/grafana#125797</code></a></td>
+      <td>Fix modal color bleeding with opaque border tokens</td>
+      <td><a href="https://github.com/grafana/grafana/pull/125797"><code>#125797</code></a></td>
     </tr>
     <tr>
       <td><img src="https://cdn.simpleicons.org/cockroachlabs/6933FF" height="16" alt="" />&nbsp; CockroachDB</td>
-      <td>Use metamorphic defaults for optimizer testing knobs in logictest</td>
-      <td><a href="https://github.com/cockroachdb/cockroach/pull/170882"><code>cockroachdb/cockroach#170882</code></a></td>
+      <td>Enable metamorphic defaults in optimizer logictests</td>
+      <td><a href="https://github.com/cockroachdb/cockroach/pull/170882"><code>#170882</code></a></td>
     </tr>
     <tr>
       <td><img src="https://cdn.simpleicons.org/argo/EF7B4D" height="16" alt="" />&nbsp; ArgoCD</td>
-      <td>Add <code>t.Parallel()</code> to util/app tests</td>
-      <td><a href="https://github.com/argoproj/argo-cd/pull/28177"><code>argoproj/argo-cd#28177</code></a></td>
+      <td>Parallelize util/app tests with <code>t.Parallel()</code></td>
+      <td><a href="https://github.com/argoproj/argo-cd/pull/28177"><code>#28177</code></a></td>
     </tr>
-  </tbody>
-</table>
-
-<details>
-<summary><strong>3 more contributions</strong></summary>
-
-<br />
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Contribution</th>
-      <th>PR</th>
-    </tr>
-  </thead>
-  <tbody>
     <tr>
       <td><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="16" alt="" />&nbsp; Prometheus</td>
-      <td>Document that compaction can temporarily exceed retention.size</td>
-      <td><a href="https://github.com/prometheus/prometheus/pull/18996"><code>prometheus/prometheus#18996</code></a></td>
+      <td>Document compaction may temporarily exceed retention.size</td>
+      <td><a href="https://github.com/prometheus/prometheus/pull/18996"><code>#18996</code></a></td>
     </tr>
     <tr>
       <td><img src="https://avatars.githubusercontent.com/u/66682517?s=280&v=4" height="16" alt="" />&nbsp; Prometheus Operator</td>
@@ -177,13 +160,11 @@ I contribute to open source projects like `moby/moby`, `grafana/grafana`, `cockr
     </tr>
     <tr>
       <td><img src="https://cdn.simpleicons.org/jenkins/D24939" height="16" alt="" />&nbsp; Jenkins</td>
-      <td>Add charset UTF-8 to workspace text file responses</td>
-      <td><a href="https://github.com/jenkinsci/jenkins/pull/26912"><code>jenkinsci/jenkins#26912</code></a></td>
+      <td>Serve workspace text files with UTF-8 charset</td>
+      <td><a href="https://github.com/jenkinsci/jenkins/pull/26912"><code>#26912</code></a></td>
     </tr>
   </tbody>
 </table>
-
-</details>
 
 <hr />
 
