@@ -156,7 +156,7 @@ I contribute to open source projects like `moby/moby`, `grafana/grafana`, `cockr
       <td><a href="https://github.com/prometheus/prometheus/pull/18996"><code>prometheus/prometheus#18996</code></a></td>
     </tr>
     <tr>
-      <td><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="16" alt="" />&nbsp; Prometheus Operator</td>
+      <td><img src="https://avatars.githubusercontent.com/u/66682517?s=280&v=4" height="16" alt="" />&nbsp; Prometheus Operator</td>
       <td>Docs, validation, and test fixes</td>
       <td><a href="https://github.com/prometheus-operator/prometheus-operator/pull/8587"><code>#8587</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8589"><code>#8589</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8591"><code>#8591</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8595"><code>#8595</code></a></td>
     </tr>
