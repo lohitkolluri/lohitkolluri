@@ -153,14 +153,29 @@ I contribute to open source projects like `moby/moby`, `grafana/grafana`, `cockr
       <td align="center"><a href="https://github.com/prometheus/prometheus/pull/18996"><code>#18996</code></a></td>
     </tr>
     <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/66682517?s=280&v=4" height="16" alt="" />&nbsp; Prometheus Operator</td>
-      <td>Docs, validation, and test fixes</td>
-      <td align="center"><a href="https://github.com/prometheus-operator/prometheus-operator/pull/8587"><code>#8587</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8589"><code>#8589</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8591"><code>#8591</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8595"><code>#8595</code></a></td>
+      <td><img src="https://avatars.githubusercontent.com/u/66682517?s=24" height="16" alt="" />&nbsp; Prometheus Operator</td>
+      <td>Docs, validation, linter, and test fixes</td>
+      <td align="center"><a href="https://github.com/prometheus-operator/prometheus-operator/pull/8587"><code>#8587</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8589"><code>#8589</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8591"><code>#8591</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8592"><code>#8592</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8595"><code>#8595</code></a></td>
     </tr>
     <tr>
       <td><img src="https://cdn.simpleicons.org/jenkins/D24939" height="16" alt="" />&nbsp; Jenkins</td>
       <td>Serve workspace text files with UTF-8 charset</td>
       <td align="center"><a href="https://github.com/jenkinsci/jenkins/pull/26912"><code>#26912</code></a></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/jenkins/D24939" height="16" alt="" />&nbsp; Credentials Plugin</td>
+      <td>Handle LinkageError for invalid certificate credentials</td>
+      <td align="center"><a href="https://github.com/jenkinsci/credentials-plugin/pull/1060"><code>#1060</code></a></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="16" alt="" />&nbsp; Apache Airflow</td>
+      <td>Return 503 when SQLite locks during backfill creation</td>
+      <td align="center"><a href="https://github.com/apache/airflow/pull/67900"><code>#67900</code></a></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="16" alt="" />&nbsp; Docker Model Runner</td>
+      <td>Add Pascal GPU architecture support to llama.cpp build</td>
+      <td align="center"><a href="https://github.com/docker/model-runner/pull/986"><code>#986</code></a></td>
     </tr>
   </tbody>
 </table>
