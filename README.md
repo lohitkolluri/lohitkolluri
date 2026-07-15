@@ -19,9 +19,11 @@
 
 
 
-I keep infrastructure running so your team can ship without surprises. **Kubernetes**, **CI/CD**, and **observability** are my bread and butter. GitOps pipelines, container orchestration, monitoring with **Prometheus** and **Grafana** that actually tells you something useful before pager duty kicks in.
+I keep infrastructure running so teams can ship without surprises. **Kubernetes**, **CI/CD**, **GitOps**, and **observability** are my bread and butter—building reliable delivery pipelines, container platforms, and monitoring with **Prometheus** and **Grafana** that surfaces problems before they become incidents.
 
-I contribute to open source projects like `moby/moby`, `grafana/grafana`, `cockroachdb/cockroach`, `prometheus/prometheus`, `prometheus-operator`, `jenkinsci/jenkins`, and `argoproj/argo-cd`. I hold **Azure** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub Foundations**. Right now I'm digging into **GenAI** and **autonomous DevOps**. No hype, just finding what actually works for infrastructure.
+I'm an active open source contributor to projects including `helm/helm`, `moby/moby`, `moby/swarmkit`, `prometheus/prometheus`, `prometheus-operator`, `apache/airflow`, `jenkinsci/jenkins`, `grafana/grafana`, `cockroachdb/cockroach`, `argoproj/argo-cd`, and `docker/model-runner`, with contributions spanning distributed systems, cloud-native infrastructure, observability, CI/CD, databases, and AI infrastructure.
+
+I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub Foundations**. Currently exploring **GenAI**, **LLM infrastructure**, and **autonomous DevOps**—focusing on practical systems that improve platform reliability rather than chasing hype.
 
 `npx lohitkolluri` if you want the quick version.
 
@@ -122,62 +124,100 @@ I contribute to open source projects like `moby/moby`, `grafana/grafana`, `cockr
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="16" alt="" />&nbsp; Docker / Moby</td>
-      <td>Fix constraint enforcer for completed swarmkit job tasks</td>
-      <td align="center"><a href="https://github.com/moby/moby/pull/52786"><code>#52786</code></a></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.simpleicons.org/docker/222222" height="16" alt="" />&nbsp; SwarmKit</td>
-      <td>Exclude completed tasks from constraint reservation accounting</td>
-      <td align="center"><a href="https://github.com/moby/swarmkit/pull/3237"><code>#3237</code></a></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.simpleicons.org/grafana/F46800" height="16" alt="" />&nbsp; Grafana</td>
-      <td>Fix modal color bleeding with opaque border tokens</td>
-      <td align="center"><a href="https://github.com/grafana/grafana/pull/125797"><code>#125797</code></a></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.simpleicons.org/cockroachlabs/6933FF" height="16" alt="" />&nbsp; CockroachDB</td>
-      <td>Enable metamorphic defaults in optimizer logictests</td>
-      <td align="center"><a href="https://github.com/cockroachdb/cockroach/pull/170882"><code>#170882</code></a></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.simpleicons.org/argo/EF7B4D" height="16" alt="" />&nbsp; ArgoCD</td>
-      <td>Parallelize util/app tests with <code>t.Parallel()</code></td>
-      <td align="center"><a href="https://github.com/argoproj/argo-cd/pull/28177"><code>#28177</code></a></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="16" alt="" />&nbsp; Prometheus</td>
-      <td>Document compaction may temporarily exceed retention.size</td>
-      <td align="center"><a href="https://github.com/prometheus/prometheus/pull/18996"><code>#18996</code></a></td>
-    </tr>
-    <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/66682517?s=24" height="16" alt="" />&nbsp; Prometheus Operator</td>
-      <td>Docs, validation, linter, and test fixes</td>
-      <td align="center"><a href="https://github.com/prometheus-operator/prometheus-operator/pull/8587"><code>#8587</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8589"><code>#8589</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8591"><code>#8591</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8592"><code>#8592</code></a> <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8595"><code>#8595</code></a></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.simpleicons.org/jenkins/D24939" height="16" alt="" />&nbsp; Jenkins</td>
-      <td>Serve workspace text files with UTF-8 charset</td>
-      <td align="center"><a href="https://github.com/jenkinsci/jenkins/pull/26912"><code>#26912</code></a></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.simpleicons.org/jenkins/D24939" height="16" alt="" />&nbsp; Credentials Plugin</td>
-      <td>Handle LinkageError for invalid certificate credentials</td>
-      <td align="center"><a href="https://github.com/jenkinsci/credentials-plugin/pull/1060"><code>#1060</code></a></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="16" alt="" />&nbsp; Apache Airflow</td>
-      <td>Return 503 when SQLite locks during backfill creation</td>
-      <td align="center"><a href="https://github.com/apache/airflow/pull/67900"><code>#67900</code></a></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="16" alt="" />&nbsp; Docker Model Runner</td>
-      <td>Add Pascal GPU architecture support to llama.cpp build</td>
-      <td align="center"><a href="https://github.com/docker/model-runner/pull/986"><code>#986</code></a></td>
-    </tr>
-  </tbody>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="16" alt="" />&nbsp; Docker / Moby</td>
+    <td>Fix Swarm constraint scheduling for completed job tasks</td>
+    <td align="center">
+      <a href="https://github.com/moby/moby/pull/52786"><code>#52786</code></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/docker/222222" height="16" alt="" />&nbsp; SwarmKit</td>
+    <td>Correct resource reservation accounting for completed job tasks</td>
+    <td align="center">
+      <a href="https://github.com/moby/swarmkit/pull/3237"><code>#3237</code></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/helm/0F1689" height="16" alt="" />&nbsp; Helm</td>
+    <td>Enable reproducible chart archives via <code>SOURCE_DATE_EPOCH</code></td>
+    <td align="center">
+      <a href="https://github.com/helm/helm/pull/32162"><code>#32162</code></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="16" alt="" />&nbsp; Prometheus</td>
+    <td>Improve AWS service discovery initialization and TSDB retention documentation</td>
+    <td align="center">
+      <a href="https://github.com/prometheus/prometheus/pull/19037"><code>#19037</code></a>
+      <a href="https://github.com/prometheus/prometheus/pull/18996"><code>#18996</code></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/66682517?s=24" height="16" alt="" />&nbsp; Prometheus Operator</td>
+    <td>Strengthen validation, documentation, linting, and test coverage</td>
+    <td align="center">
+      <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8587"><code>#8587</code></a>
+      <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8589"><code>#8589</code></a>
+      <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8591"><code>#8591</code></a>
+      <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8592"><code>#8592</code></a>
+      <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8595"><code>#8595</code></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/cockroachlabs/6933FF" height="16" alt="" />&nbsp; CockroachDB</td>
+    <td>Improve SQL optimizer testing with metamorphic defaults</td>
+    <td align="center">
+      <a href="https://github.com/cockroachdb/cockroach/pull/170882"><code>#170882</code></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="16" alt="" />&nbsp; Apache Airflow</td>
+    <td>Improve API reliability during SQLite lock contention</td>
+    <td align="center">
+      <a href="https://github.com/apache/airflow/pull/67900"><code>#67900</code></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/jenkins/D24939" height="16" alt="" />&nbsp; Jenkins</td>
+    <td>Improve workspace response encoding and credential error handling</td>
+    <td align="center">
+      <a href="https://github.com/jenkinsci/jenkins/pull/26912"><code>#26912</code></a>
+      <a href="https://github.com/jenkinsci/credentials-plugin/pull/1060"><code>#1060</code></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="16" alt="" />&nbsp; Docker Model Runner</td>
+    <td>Extend CUDA build support for Pascal-generation NVIDIA GPUs</td>
+    <td align="center">
+      <a href="https://github.com/docker/model-runner/pull/986"><code>#986</code></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/argo/EF7B4D" height="16" alt="" />&nbsp; Argo CD</td>
+    <td>Accelerate test execution through parallelized unit tests</td>
+    <td align="center">
+      <a href="https://github.com/argoproj/argo-cd/pull/28177"><code>#28177</code></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/grafana/F46800" height="16" alt="" />&nbsp; Grafana</td>
+    <td>Prevent modal border color bleeding across themes</td>
+    <td align="center">
+      <a href="https://github.com/grafana/grafana/pull/125797"><code>#125797</code></a>
+    </td>
+  </tr>
+</tbody>
 </table>
 
 <hr />
