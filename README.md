@@ -126,7 +126,7 @@ I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub 
   <tbody>
   <tr>
     <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="16" alt="" />&nbsp; Docker / Moby</td>
-    <td>Fix Swarm constraint scheduling for completed job tasks</td>
+    <td>Unblock Swarm scheduling for completed job tasks</td>
     <td align="center">
       <a href="https://github.com/moby/moby/pull/52786"><code>#52786</code></a>
     </td>
@@ -134,7 +134,7 @@ I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub 
 
   <tr>
     <td><img src="https://cdn.simpleicons.org/docker/222222" height="16" alt="" />&nbsp; SwarmKit</td>
-    <td>Correct resource reservation accounting for completed job tasks</td>
+    <td>Fix resource accounting leak in Swarm constraint scheduler</td>
     <td align="center">
       <a href="https://github.com/moby/swarmkit/pull/3237"><code>#3237</code></a>
     </td>
@@ -142,7 +142,7 @@ I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub 
 
   <tr>
     <td><img src="https://cdn.simpleicons.org/helm/0F1689" height="16" alt="" />&nbsp; Helm</td>
-    <td>Enable reproducible chart archives via <code>SOURCE_DATE_EPOCH</code></td>
+    <td>Ship bit-reproducible Helm charts via <code>SOURCE_DATE_EPOCH</code></td>
     <td align="center">
       <a href="https://github.com/helm/helm/pull/32162"><code>#32162</code></a>
     </td>
@@ -150,7 +150,7 @@ I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub 
 
   <tr>
     <td><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="16" alt="" />&nbsp; Prometheus</td>
-    <td>Improve AWS service discovery initialization and TSDB retention documentation</td>
+    <td>Productionize AWS SD init &amp; clarify TSDB retention limits</td>
     <td align="center">
       <a href="https://github.com/prometheus/prometheus/pull/19037"><code>#19037</code></a>
       <a href="https://github.com/prometheus/prometheus/pull/18996"><code>#18996</code></a>
@@ -159,7 +159,7 @@ I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub 
 
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/66682517?s=24" height="16" alt="" />&nbsp; Prometheus Operator</td>
-    <td>Strengthen validation, documentation, linting, and test coverage</td>
+    <td>Bulletproof Prometheus Operator: validation, lint, test harness</td>
     <td align="center">
       <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8587"><code>#8587</code></a>
       <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8589"><code>#8589</code></a>
@@ -171,7 +171,7 @@ I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub 
 
   <tr>
     <td><img src="https://cdn.simpleicons.org/cockroachlabs/6933FF" height="16" alt="" />&nbsp; CockroachDB</td>
-    <td>Improve SQL optimizer testing with metamorphic defaults</td>
+    <td>Fuzz SQL optimizer with metamorphic test defaults</td>
     <td align="center">
       <a href="https://github.com/cockroachdb/cockroach/pull/170882"><code>#170882</code></a>
     </td>
@@ -179,7 +179,7 @@ I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub 
 
   <tr>
     <td><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="16" alt="" />&nbsp; Apache Airflow</td>
-    <td>Improve API reliability during SQLite lock contention</td>
+    <td>Graceful 503s under SQLite backfill contention</td>
     <td align="center">
       <a href="https://github.com/apache/airflow/pull/67900"><code>#67900</code></a>
     </td>
@@ -187,7 +187,7 @@ I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub 
 
   <tr>
     <td><img src="https://cdn.simpleicons.org/jenkins/D24939" height="16" alt="" />&nbsp; Jenkins</td>
-    <td>Improve workspace response encoding and credential error handling</td>
+    <td>Fix charset encoding in workspace views + credential edge cases</td>
     <td align="center">
       <a href="https://github.com/jenkinsci/jenkins/pull/26912"><code>#26912</code></a>
       <a href="https://github.com/jenkinsci/credentials-plugin/pull/1060"><code>#1060</code></a>
@@ -196,7 +196,7 @@ I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub 
 
   <tr>
     <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="16" alt="" />&nbsp; Docker Model Runner</td>
-    <td>Extend CUDA build support for Pascal-generation NVIDIA GPUs</td>
+    <td>Extend CUDA inference to Pascal-gen GPUs</td>
     <td align="center">
       <a href="https://github.com/docker/model-runner/pull/986"><code>#986</code></a>
     </td>
@@ -204,7 +204,7 @@ I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub 
 
   <tr>
     <td><img src="https://cdn.simpleicons.org/argo/EF7B4D" height="16" alt="" />&nbsp; Argo CD</td>
-    <td>Accelerate test execution through parallelized unit tests</td>
+    <td>Cut CI time with parallel unit test execution</td>
     <td align="center">
       <a href="https://github.com/argoproj/argo-cd/pull/28177"><code>#28177</code></a>
     </td>
@@ -212,7 +212,7 @@ I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub 
 
   <tr>
     <td><img src="https://cdn.simpleicons.org/grafana/F46800" height="16" alt="" />&nbsp; Grafana</td>
-    <td>Prevent modal border color bleeding across themes</td>
+    <td>Fix modal border color bleed in theme transitions</td>
     <td align="center">
       <a href="https://github.com/grafana/grafana/pull/125797"><code>#125797</code></a>
     </td>
@@ -220,7 +220,7 @@ I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub 
 
   <tr>
     <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="16" alt="" />&nbsp; Docker CLI</td>
-    <td>Add private registry pull/push e2e regression test</td>
+    <td>Catch auth regressions with private registry E2E smoke test</td>
     <td align="center">
       <a href="https://github.com/docker/cli/pull/7007"><code>#7007</code></a>
     </td>
