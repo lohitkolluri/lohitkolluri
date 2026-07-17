@@ -217,6 +217,14 @@ I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub 
       <a href="https://github.com/grafana/grafana/pull/125797"><code>#125797</code></a>
     </td>
   </tr>
+
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="16" alt="" />&nbsp; Docker CLI</td>
+    <td>Add private registry pull/push e2e regression test</td>
+    <td align="center">
+      <a href="https://github.com/docker/cli/pull/7007"><code>#7007</code></a>
+    </td>
+  </tr>
 </tbody>
 </table>
 
