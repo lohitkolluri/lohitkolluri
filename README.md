@@ -1,119 +1,62 @@
-<h1 align="center" style="margin-bottom: 0; color: #58A6FF;">Lohit Kolluri</h1>
-<p align="center" style="margin-top: 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Platform+Engineer+%E2%80%A2+Cloud+%26+Infrastructure;Building+reliable+and+observable+systems;Open+Source+Contributor" alt="Typing subtitle" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero.svg">
+  <img src="assets/hero.svg" width="100%" alt="Lohit Kolluri - Platform Engineer">
+</picture>
 
 <p align="center">
   <a href="https://lohit.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/kollurilohit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="mailto:lohitkolluri@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
   <a href="https://github.com/lohitkolluri" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://www.npmjs.com/package/lohitkolluri" target="_blank"><img src="https://img.shields.io/badge/npx_lohitkolluri-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npx card" /></a>
+  <a href="https://www.npmjs.com/package/lohitkolluri" target="_blank"><img src="https://img.shields.io/badge/npx%20card-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npx card" /></a>
 </p>
 
+<br>
 
+## About
 
-<hr />
+I keep infrastructure running so teams can ship without surprises. **Kubernetes**, **CI/CD**, **GitOps**, and **observability** are my bread and butter—building reliable delivery pipelines, container platforms, and monitoring that surfaces problems before they become incidents.
 
-## 👨‍💻 About Me
+Active open source contributor across cloud-native infrastructure, distributed systems, CI/CD, observability, databases, and AI infrastructure. Projects include `helm/helm`, `moby/moby`, `prometheus/prometheus`, `cockroachdb/cockroach`, `argoproj/argo-cd`, `grafana/grafana`, and more.
 
+Microsoft Certified (AI-900, AZ-900, SC-900) &bull; GitHub Foundations. Currently exploring GenAI infrastructure and autonomous DevOps.
 
+> `npx lohitkolluri` for the quick version.
 
-I keep infrastructure running so teams can ship without surprises. **Kubernetes**, **CI/CD**, **GitOps**, and **observability** are my bread and butter—building reliable delivery pipelines, container platforms, and monitoring with **Prometheus** and **Grafana** that surfaces problems before they become incidents.
+<br>
 
-I'm an active open source contributor to projects including `helm/helm`, `moby/moby`, `moby/swarmkit`, `prometheus/prometheus`, `prometheus-operator`, `apache/airflow`, `jenkinsci/jenkins`, `grafana/grafana`, `cockroachdb/cockroach`, `argoproj/argo-cd`, and `docker/model-runner`, with contributions spanning distributed systems, cloud-native infrastructure, observability, CI/CD, databases, and AI infrastructure.
-
-I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub Foundations**. Currently exploring **GenAI**, **LLM infrastructure**, and **autonomous DevOps**—focusing on practical systems that improve platform reliability rather than chasing hype.
-
-`npx lohitkolluri` if you want the quick version.
-
-<hr />
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,go,bash" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,flask,express" />
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,githubactions,terraform" />
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-  <img src="https://skillicons.dev/icons?i=prometheus,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,go,bash" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,flask,express" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,githubactions,terraform" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI/ML" />
+  <img src="https://skillicons.dev/icons?i=prometheus,git,github,vscode,postman" alt="Tools" />
 </div>
 
-<br />
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg">
+  <img src="assets/divider.svg" width="100%" alt="">
+</picture>
+<br>
 
-<!-- Badge alternative -- uncomment to try -->
-<!-- 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</div>
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats.svg">
+  <img src="assets/stats.svg" width="100%" alt="GitHub Stats">
+</picture>
 
-<hr />
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg">
+  <img src="assets/divider.svg" width="100%" alt="">
+</picture>
+<br>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lohitkolluri&theme=github_dark">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lohitkolluri&theme=github" alt="Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lohitkolluri&theme=github_dark">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lohitkolluri&theme=github" alt="Top Languages" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lohitkolluri&theme=github_dark">
-    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lohitkolluri&theme=github" alt="Profile Details" />
-  </picture>
-</p>
-
-<hr />
-
-## 🌍 Open Source Contributions
+## Open Source Contributions
 
 <table>
   <thead>
@@ -124,105 +67,80 @@ I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub 
     </tr>
   </thead>
   <tbody>
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="16" alt="" />&nbsp; Docker / Moby</td>
-    <td>Fix Swarm constraint scheduling for completed job tasks</td>
-    <td align="center">
-      <a href="https://github.com/moby/moby/pull/52786"><code>#52786</code></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/docker/222222" height="16" alt="" />&nbsp; SwarmKit</td>
-    <td>Correct resource reservation accounting for completed job tasks</td>
-    <td align="center">
-      <a href="https://github.com/moby/swarmkit/pull/3237"><code>#3237</code></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/helm/0F1689" height="16" alt="" />&nbsp; Helm</td>
-    <td>Enable reproducible chart archives via <code>SOURCE_DATE_EPOCH</code></td>
-    <td align="center">
-      <a href="https://github.com/helm/helm/pull/32162"><code>#32162</code></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="16" alt="" />&nbsp; Prometheus</td>
-    <td>Improve AWS service discovery initialization and TSDB retention documentation</td>
-    <td align="center">
-      <a href="https://github.com/prometheus/prometheus/pull/19037"><code>#19037</code></a>
-      <a href="https://github.com/prometheus/prometheus/pull/18996"><code>#18996</code></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/66682517?s=24" height="16" alt="" />&nbsp; Prometheus Operator</td>
-    <td>Strengthen validation, documentation, linting, and test coverage</td>
-    <td align="center">
-      <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8587"><code>#8587</code></a>
-      <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8589"><code>#8589</code></a>
-      <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8591"><code>#8591</code></a>
-      <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8592"><code>#8592</code></a>
-      <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8595"><code>#8595</code></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/cockroachlabs/6933FF" height="16" alt="" />&nbsp; CockroachDB</td>
-    <td>Improve SQL optimizer testing with metamorphic defaults</td>
-    <td align="center">
-      <a href="https://github.com/cockroachdb/cockroach/pull/170882"><code>#170882</code></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="16" alt="" />&nbsp; Apache Airflow</td>
-    <td>Improve API reliability during SQLite lock contention</td>
-    <td align="center">
-      <a href="https://github.com/apache/airflow/pull/67900"><code>#67900</code></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/jenkins/D24939" height="16" alt="" />&nbsp; Jenkins</td>
-    <td>Improve workspace response encoding and credential error handling</td>
-    <td align="center">
-      <a href="https://github.com/jenkinsci/jenkins/pull/26912"><code>#26912</code></a>
-      <a href="https://github.com/jenkinsci/credentials-plugin/pull/1060"><code>#1060</code></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="16" alt="" />&nbsp; Docker Model Runner</td>
-    <td>Extend CUDA build support for Pascal-generation NVIDIA GPUs</td>
-    <td align="center">
-      <a href="https://github.com/docker/model-runner/pull/986"><code>#986</code></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/argo/EF7B4D" height="16" alt="" />&nbsp; Argo CD</td>
-    <td>Accelerate test execution through parallelized unit tests</td>
-    <td align="center">
-      <a href="https://github.com/argoproj/argo-cd/pull/28177"><code>#28177</code></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/grafana/F46800" height="16" alt="" />&nbsp; Grafana</td>
-    <td>Prevent modal border color bleeding across themes</td>
-    <td align="center">
-      <a href="https://github.com/grafana/grafana/pull/125797"><code>#125797</code></a>
-    </td>
-  </tr>
-</tbody>
+  </tbody>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="16" alt="" />&nbsp; Docker / Moby</td>
+      <td>Fix Swarm constraint scheduling for completed job tasks</td>
+      <td align="center"><a href="https://github.com/moby/moby/pull/52786"><code>#52786</code></a></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/docker/222222" height="16" alt="" />&nbsp; SwarmKit</td>
+      <td>Correct resource reservation accounting for completed job tasks</td>
+      <td align="center"><a href="https://github.com/moby/swarmkit/pull/3237"><code>#3237</code></a></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/helm/0F1689" height="16" alt="" />&nbsp; Helm</td>
+      <td>Enable reproducible chart archives via <code>SOURCE_DATE_EPOCH</code></td>
+      <td align="center"><a href="https://github.com/helm/helm/pull/32162"><code>#32162</code></a></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="16" alt="" />&nbsp; Prometheus</td>
+      <td>Improve AWS service discovery initialization and TSDB retention documentation</td>
+      <td align="center">
+        <a href="https://github.com/prometheus/prometheus/pull/19037"><code>#19037</code></a>
+        <a href="https://github.com/prometheus/prometheus/pull/18996"><code>#18996</code></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://avatars.githubusercontent.com/u/66682517?s=24" height="16" alt="" />&nbsp; Prometheus Operator</td>
+      <td>Strengthen validation, documentation, linting, and test coverage</td>
+      <td align="center">
+        <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8587"><code>#8587</code></a>
+        <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8589"><code>#8589</code></a>
+        <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8591"><code>#8591</code></a>
+        <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8592"><code>#8592</code></a>
+        <a href="https://github.com/prometheus-operator/prometheus-operator/pull/8595"><code>#8595</code></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/cockroachlabs/6933FF" height="16" alt="" />&nbsp; CockroachDB</td>
+      <td>Improve SQL optimizer testing with metamorphic defaults</td>
+      <td align="center"><a href="https://github.com/cockroachdb/cockroach/pull/170882"><code>#170882</code></a></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="16" alt="" />&nbsp; Apache Airflow</td>
+      <td>Improve API reliability during SQLite lock contention</td>
+      <td align="center"><a href="https://github.com/apache/airflow/pull/67900"><code>#67900</code></a></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/jenkins/D24939" height="16" alt="" />&nbsp; Jenkins</td>
+      <td>Improve workspace response encoding and credential error handling</td>
+      <td align="center">
+        <a href="https://github.com/jenkinsci/jenkins/pull/26912"><code>#26912</code></a>
+        <a href="https://github.com/jenkinsci/credentials-plugin/pull/1060"><code>#1060</code></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="16" alt="" />&nbsp; Docker Model Runner</td>
+      <td>Extend CUDA build support for Pascal-generation NVIDIA GPUs</td>
+      <td align="center"><a href="https://github.com/docker/model-runner/pull/986"><code>#986</code></a></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/argo/EF7B4D" height="16" alt="" />&nbsp; Argo CD</td>
+      <td>Accelerate test execution through parallelized unit tests</td>
+      <td align="center"><a href="https://github.com/argoproj/argo-cd/pull/28177"><code>#28177</code></a></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/grafana/F46800" height="16" alt="" />&nbsp; Grafana</td>
+      <td>Prevent modal border color bleeding across themes</td>
+      <td align="center"><a href="https://github.com/grafana/grafana/pull/125797"><code>#125797</code></a></td>
+    </tr>
+  </tbody>
 </table>
 
-<hr />
+<br>
 
-## 🏅 Holopin Board
+## Badges &amp; Recognition
 
 <p align="center">
   <a href="https://holopin.io/@lohitkolluri">
@@ -230,14 +148,15 @@ I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub 
   </a>
 </p>
 
-<hr />
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg">
+  <img src="assets/divider.svg" width="100%" alt="">
+</picture>
+<br>
 
 <p align="center">
   <i>Let's connect and build something awesome together.</i>
-  <br /><br />
-</p>
-
-<!-- Visitor counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lohitkolluri&style=for-the-badge&color=58A6FF" alt="komarev" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=lohitkolluri&style=for-the-badge&color=ffffff&label=VISITORS" alt="Profile views" />
 </p>

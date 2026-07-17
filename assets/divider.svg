@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 40" width="100%" height="auto">
+  <defs>
+    <style>
+      @keyframes drawLine {
+        0% { stroke-dashoffset: 840; }
+        100% { stroke-dashoffset: 0; }
+      }
+      @keyframes glow {
+        0%, 100% { stroke-opacity: 0.15; }
+        50% { stroke-opacity: 0.5; }
+      }
+      .divider-line {
+        stroke-dasharray: 840;
+        animation: drawLine 1s ease-out 0.2s forwards, glow 4s ease-in-out 1.2s infinite;
+        stroke-opacity: 0;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="40" fill="transparent" />
+
+  <!-- Animated divider line -->
+  <line class="divider-line" x1="30" y1="20" x2="870" y2="20" stroke="#2a2a2a" stroke-width="1" />
+</svg>

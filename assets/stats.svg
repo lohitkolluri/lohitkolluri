@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="100%" height="auto">
+  <defs>
+    <style>
+      @keyframes cardUp {
+        0% { opacity: 0; transform: translateY(20px); }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes numIn {
+        0% { opacity: 0; transform: scale(0.6); }
+        60% { transform: scale(1.1); }
+        100% { opacity: 1; transform: scale(1); }
+      }
+      @keyframes breathe {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.85; }
+      }
+      @keyframes lineGlow {
+        0%, 100% { stroke-opacity: 0.3; }
+        50% { stroke-opacity: 0.8; }
+      }
+      .card-1 { animation: cardUp 0.6s ease-out 0.3s both; }
+      .card-2 { animation: cardUp 0.6s ease-out 0.6s both; }
+      .card-3 { animation: cardUp 0.6s ease-out 0.9s both; }
+      .num-1 { animation: numIn 0.5s ease-out 0.8s both; }
+      .num-2 { animation: numIn 0.5s ease-out 1.1s both; }
+      .num-3 { animation: numIn 0.5s ease-out 1.4s both; }
+      .label { animation: fadeIn 0.4s ease-out 1.2s both; }
+      .line-1 { animation: lineGlow 3s ease-in-out 1.5s infinite; }
+      .line-2 { animation: lineGlow 3s ease-in-out 2.5s infinite; }
+      .line-3 { animation: lineGlow 3s ease-in-out 3.5s infinite; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="160" fill="#0a0a0a" />
+
+  <!-- Card 1: OSS Contributions -->
+  <g class="card-1">
+    <rect x="15" y="20" width="280" height="120" rx="8" fill="#141414" stroke="#2a2a2a" stroke-width="1" />
+    <line class="line-1" x1="15" y1="20" x2="295" y2="20" stroke="#e0e0e0" stroke-width="1.5" stroke-opacity="0.3" />
+    <text class="num-1" x="155" y="78" text-anchor="middle" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="36" font-weight="700" opacity="0">11</text>
+    <text class="label" x="155" y="108" text-anchor="middle" fill="#888888" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" opacity="0">Projects Contributed</text>
+  </g>
+
+  <!-- Card 2: Merged PRs -->
+  <g class="card-2">
+    <rect x="310" y="20" width="280" height="120" rx="8" fill="#141414" stroke="#2a2a2a" stroke-width="1" />
+    <line class="line-2" x1="310" y1="20" x2="590" y2="20" stroke="#e0e0e0" stroke-width="1.5" stroke-opacity="0.3" />
+    <text class="num-2" x="450" y="78" text-anchor="middle" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="36" font-weight="700" opacity="0">17</text>
+    <text class="label" x="450" y="108" text-anchor="middle" fill="#888888" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" opacity="0">Pull Requests Merged</text>
+  </g>
+
+  <!-- Card 3: Organizations -->
+  <g class="card-3">
+    <rect x="605" y="20" width="280" height="120" rx="8" fill="#141414" stroke="#2a2a2a" stroke-width="1" />
+    <line class="line-3" x1="605" y1="20" x2="885" y2="20" stroke="#e0e0e0" stroke-width="1.5" stroke-opacity="0.3" />
+    <text class="num-3" x="745" y="78" text-anchor="middle" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="36" font-weight="700" opacity="0">9</text>
+    <text class="label" x="745" y="108" text-anchor="middle" fill="#888888" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" opacity="0">Organizations</text>
+  </g>
+</svg>
