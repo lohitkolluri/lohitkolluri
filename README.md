@@ -21,7 +21,7 @@
 
 I keep infrastructure running so teams can ship without surprises. **Kubernetes**, **CI/CD**, **GitOps**, and **observability** are my bread and butter—building reliable delivery pipelines, container platforms, and monitoring with **Prometheus** and **Grafana** that surfaces problems before they become incidents.
 
-I'm an active open source contributor to projects including `helm/helm`, `moby/moby`, `moby/swarmkit`, `prometheus/prometheus`, `prometheus-operator`, `apache/airflow`, `jenkinsci/jenkins`, `grafana/grafana`, `cockroachdb/cockroach`, `argoproj/argo-cd`, and `docker/model-runner`, with contributions spanning distributed systems, cloud-native infrastructure, observability, CI/CD, databases, and AI infrastructure.
+I'm an active open source contributor to projects including `helm/helm`, `moby/moby`, `moby/swarmkit`, `prometheus/prometheus`, `prometheus-operator`, `apache/airflow`, `jenkinsci/jenkins`, `cockroachdb/cockroach`, `argoproj/argo-cd`, and `docker/model-runner`, with contributions spanning distributed systems, cloud-native infrastructure, observability, CI/CD, databases, and AI infrastructure.
 
 I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub Foundations**. Currently exploring **GenAI**, **LLM infrastructure**, and **autonomous DevOps**—focusing on practical systems that improve platform reliability rather than chasing hype.
 
@@ -210,13 +210,6 @@ I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub 
     </td>
   </tr>
 
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/grafana/F46800" height="16" alt="" />&nbsp; Grafana</td>
-    <td>Fix modal border color bleed in theme transitions</td>
-    <td align="center">
-      <a href="https://github.com/grafana/grafana/pull/125797"><code>#125797</code></a>
-    </td>
-  </tr>
 
   <tr>
     <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="16" alt="" />&nbsp; Docker CLI</td>
